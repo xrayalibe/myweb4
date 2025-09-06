@@ -902,3 +902,54 @@
         height: 130vh;
     }
 }
+
+@media screen and (min-height:1090px) {
+    #base-story {
+        height: 50vh;
+    }
+
+
+    #service {
+        height: 43vh;
+    }
+
+    #service .over-lay {
+        padding: 8% 0%;
+    }
+
+    #about {
+        height: 41vh;
+    }
+
+    #about .about-pics .about-item .about-slide ul li svg {
+        font-size: 14px;
+    }
+
+    #about .about-pics .about-item .about-slide h4 {
+        font-size: 16px;
+    }
+
+    #about .about-pics .about-item .about-slide h6 {
+        font-size: 12px;
+    }
+
+    #beauty {
+        height: 20vh;
+    }
+
+    #project {
+        height: 40vh;
+    }
+
+    #article {
+        height: 37vh;
+    }
+
+    #partner {
+        height: 20vh;
+    }
+
+    footer {
+        height: 90vh;
+    }
+}

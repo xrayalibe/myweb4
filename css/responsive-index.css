@@ -791,7 +791,7 @@
 
 @media screen and (max-height:500px) {
     #base-story {
-        height: 70vh;
+        height: 120vh;
     }
 
     #service {
@@ -823,7 +823,7 @@
 
 @media screen and (max-height:400px) {
     #base-story {
-        height: 90vh;
+        height: 110vh;
     }
 
     #service {
@@ -848,5 +848,57 @@
 
     #partner {
         height: 70vh;
+    }
+}
+
+
+@media screen and (min-height:600px) {
+    #base-story {
+        height: 60vh;
+    }
+
+
+    #service {
+        height: 55vh;
+    }
+
+    #service .over-lay {
+        padding: 8% 0%;
+    }
+
+    #about {
+        height: 61vh;
+    }
+
+    #about .about-pics .about-item .about-slide ul li svg {
+        font-size: 14px;
+    }
+
+    #about .about-pics .about-item .about-slide h4 {
+        font-size: 16px;
+    }
+
+    #about .about-pics .about-item .about-slide h6 {
+        font-size: 12px;
+    }
+
+    #beauty {
+        height: 30vh;
+    }
+
+    #project {
+        height: 60vh;
+    }
+
+    #article {
+        height: 47vh;
+    }
+
+    #partner {
+        height: 30vh;
+    }
+
+    footer {
+        height: 130vh;
     }
 }

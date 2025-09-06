@@ -791,9 +791,7 @@
 
 
 @media screen and (max-height:500px) {
-    #base-story {
-        height: 85vh;
-    }
+
 
     #service {
         height: 110vh;
@@ -881,7 +879,7 @@
     }
 
     #project {
-        height: 60vh;
+        height: 70vh;
     }
 
     #article {
@@ -897,22 +895,22 @@
     }
 }
 
-@media screen and (min-height:910px) {
+@media screen and (min-height:650px) {
     #base-story {
         height: 50vh;
     }
 
 
     #service {
-        height: 43vh !important;
+        height: 50vh !important;
     }
 
     #service .over-lay {
-        padding: 8% 0%;
+        padding: 4% 0%;
     }
 
     #about {
-        height: 41vh;
+        height: 45vh;
     }
 
     #about .about-pics .about-item .about-slide ul li svg {
@@ -936,7 +934,7 @@
     }
 
     #article {
-        height: 37vh;
+        height: 45vh;
     }
 
     #partner {
@@ -947,5 +945,3 @@
         height: 90vh;
     }
 }
-
-

@@ -789,9 +789,10 @@
 }
 
 
+
 @media screen and (max-height:500px) {
     #base-story {
-        height: 120vh;
+        height: 85vh;
     }
 
     #service {
@@ -823,7 +824,7 @@
 
 @media screen and (max-height:400px) {
     #base-story {
-        height: 110vh;
+        height: 125vh;
     }
 
     #service {
@@ -831,7 +832,7 @@
     }
 
     #about {
-        height: 101vh;
+        height: 121vh;
     }
 
     #beauty {
@@ -903,7 +904,7 @@
     }
 }
 
-@media screen and (min-height:1090px) {
+@media screen and (min-height:1000px) {
     #base-story {
         height: 50vh;
     }

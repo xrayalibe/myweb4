@@ -850,6 +850,10 @@
     #partner {
         height: 70vh;
     }
+
+    footer {
+        height: 130vh;
+    }
 }
 
 
@@ -860,28 +864,17 @@
 
 
     #service {
-        height: 55vh;
+        height: 95vh !important;
     }
 
     #service .over-lay {
-        padding: 8% 0%;
+        padding: 6% 0%;
     }
 
     #about {
         height: 61vh;
     }
 
-    #about .about-pics .about-item .about-slide ul li svg {
-        font-size: 14px;
-    }
-
-    #about .about-pics .about-item .about-slide h4 {
-        font-size: 16px;
-    }
-
-    #about .about-pics .about-item .about-slide h6 {
-        font-size: 12px;
-    }
 
     #beauty {
         height: 30vh;
@@ -892,7 +885,7 @@
     }
 
     #article {
-        height: 47vh;
+        height: 67vh;
     }
 
     #partner {
@@ -911,7 +904,7 @@
 
 
     #service {
-        height: 43vh;
+        height: 43vh !important;
     }
 
     #service .over-lay {

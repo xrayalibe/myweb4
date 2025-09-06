@@ -423,7 +423,7 @@ header nav .logo img {
 
 #service {
     width: 100%;
-    height: 90vh;
+    height: 95vh;
     background-image: url("../images/coverservice.png");
     background-size: cover;
     background-position: center;
@@ -438,7 +438,7 @@ header nav .logo img {
     left: 0;
     bottom: 0;
     background-color: rgba(0, 0, 0, 0.4);
-    padding: 3% 0%;
+    padding: 5% 0%;
 }
 
 #service .container {

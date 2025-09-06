@@ -897,7 +897,7 @@
     }
 }
 
-@media screen and (min-height:1000px) {
+@media screen and (min-height:910px) {
     #base-story {
         height: 50vh;
     }
@@ -947,3 +947,4 @@
         height: 90vh;
     }
 }
+

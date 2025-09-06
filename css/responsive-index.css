@@ -798,7 +798,7 @@
     }
 
     #about {
-        height: 81vh;
+        height: 70vh;
     }
 
     #beauty {
@@ -826,6 +826,13 @@
     }
 }
 
+
+@media screen and (max-height:400px) and (max-width:660px) {
+    #about {
+        height: 118vh !important;
+    }
+}
+
 @media screen and (max-height:400px) {
     #base-story {
         height: 65vh;
@@ -836,7 +843,7 @@
     }
 
     #about {
-        height: 121vh;
+        height: 70vh;
     }
 
     #beauty {
@@ -861,6 +868,7 @@
 }
 
 
+
 @media screen and (min-height:600px) {
     #base-story {
         height: 60vh;
@@ -876,7 +884,7 @@
     }
 
     #about {
-        height: 61vh;
+        height: 60vh;
     }
 
 
